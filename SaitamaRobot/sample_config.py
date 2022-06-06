@@ -19,7 +19,7 @@ class Config(object):
     API_HASH = "e3142ae8d7676da380db8e5425310254"
     TOKEN = "5582774690:AAFn-fDZ6-iirY253LPxnEQWosPBcprBfvg"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5237861279  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Jin"
+    OWNER_USERNAME = "Syntrozyne"
     SUPPORT_CHAT = 'otakuxchatz' #Your own group for support, do not add the @
     JOIN_LOGGER = -1001272082336  #Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = -1001355817633  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
@@ -31,7 +31,7 @@ class Config(object):
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "ulnpN0saOj8RyxwycZKKXiDJB3uKD8MASq5zoSR9j~GSzJbDCl9_pCVuEgMhonEh"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
 
     #OPTIONAL
